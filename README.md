@@ -1,4 +1,5 @@
-# LondonLab #
+# Laboratory for Molecular Neuroimaging #
+## PI: Edythe D. London, PhD
 ## Welcome to the London Lab github!
 Here you can find links to projects in our lab
 * Example One link 
